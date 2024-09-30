@@ -83,14 +83,16 @@ nav input{
     color: white;
 }
 .in:hover{
-    color:white
+    color:black
+}
 .upload{
     background-color: green;
     color: white;
     
 }
 .upload:hover{
-    color:black
+    color:tomato;
+}
 .space{
     margin:20px;
 }
@@ -98,12 +100,13 @@ section{
     display: grid;
     grid-template-columns: repeat(3,1fr);
     margin-top: -50px;
- 
+ margin-left: -20px;
+ column-gap: -10px;
    
     
 }
 div img{
-     width: 400px;
+     width: 380px;
     height: 500px; 
     border-radius: 10px;
     margin: 30px;
