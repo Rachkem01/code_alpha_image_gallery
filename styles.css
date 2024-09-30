@@ -82,11 +82,15 @@ nav input{
     background-color: tomato;
     color: white;
 }
+.in:hover{
+    color:white
 .upload{
     background-color: green;
     color: white;
     
 }
+.upload:hover{
+    color:black
 .space{
     margin:20px;
 }
