@@ -94,7 +94,7 @@ section{
     display: grid;
     grid-template-columns: repeat(3,1fr);
     margin-top: -50px;
-    margin-left: 70px;
+    margin-left: 20px;
    
     
 }
